@@ -1,0 +1,6 @@
+Requirement,Module,Test cases,Execution status
+REQ-01,Authentication,"TC-001, TC-002, TC-003, TC-004, TC-005, TC-006, TC-007, TC-008, TC-009, TC-010",Not Run
+REQ-02,Product Search,"TC-011, TC-012, TC-013, TC-014, TC-015, TC-016, TC-017, TC-018, TC-019, TC-020",Not Run
+REQ-03,Cart and Coupons,"TC-021, TC-022, TC-023, TC-024, TC-025, TC-026, TC-027, TC-028, TC-029, TC-030",Not Run
+REQ-04,Checkout and Payment,"TC-031, TC-032, TC-033, TC-034, TC-035, TC-036, TC-037, TC-038, TC-039, TC-040",Not Run
+REQ-05,Order Tracking and Cancellation,"TC-041, TC-042, TC-043, TC-044, TC-045, TC-046, TC-047, TC-048, TC-049, TC-050",Not Run
